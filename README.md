@@ -9,4 +9,5 @@ Il s'agit d'un travail en cours... qui est loin d'être finalisé...
 ### Le graphe de compétences
 
 Il peut être téléchargé en version [PDF](https://patrick-etcheverry.github.io/graphe-competences-algo-prog/graphe-competences-algo-prog.pdf) ou [JPG](https://patrick-etcheverry.github.io/graphe-competences-algo-prog/graphe-competences-algo-prog.jpg) ou bien consulté en ligne en cliquant sur l'aperçu ci-dessous.
+
 [![Graphe de compétences](https://patrick-etcheverry.github.io/graphe-competences-algo-prog/graphe-competences-algo-prog.jpg)](https://patrick-etcheverry.github.io/graphe-competences-algo-prog/)
